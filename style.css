@@ -6,7 +6,7 @@
     --font-header1:rgb(136, 74, 133);
     --fea-box: #fff9f9;
     --cost-color:  rgb(136, 74, 133)rgb(136, 74, 133);
-    --Hero-img: linear-gradient(rgba(54, 5, 38, 0.3),rgba(46, 4, 24, 0.7)),url("./imagesedu/pngwing.com (1).png");
+    --Hero-img: linear-gradient(rgba(54, 5, 38, 0.3),rgba(46, 4, 24, 0.7)),url("../imagesedu/pngwing.com (1).png");
 }
 *{
     margin: 0;
@@ -280,7 +280,7 @@ nav .navigation ul li a:hover
 #registration{
     padding: 6vw 8vw 6vw 8vw;
     background-image: linear-gradient(rgba(99,112,168,0.5), rgba(81,91,233,0.5)),
-    url("imagesedu/pngwing.com\ \(2\).png");
+    url("../imagesedu/pngwing.com\ \(2\).png");
      width: 100%;
      height: 100%;
      background-size: cover;
@@ -1213,7 +1213,7 @@ margin-bottom: 20px;
     }
     #about-home {
         background: linear-gradient(rgba(9, 5, 54, 0.3),rgba(5,4,46,0.7)),
-    url("imagesedu/pngwing.com\ \(2\).png");
+    url("../imagesedu/pngwing.com\ \(2\).png");
         width: 100%;
         height: 40vh;
         background-size: cover;
